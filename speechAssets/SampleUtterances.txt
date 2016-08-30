@@ -1,0 +1,4 @@
+factsIntent tell me about {Item}
+factsIntent what's up with {Item}
+factsIntent where are we with {Item}
+factsIntent how is {Item} doing
